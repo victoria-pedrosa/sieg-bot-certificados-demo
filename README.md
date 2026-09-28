@@ -1,6 +1,6 @@
-# Sieg Bot Certificados
+# Demonstração — Gestão de certificados e procurações no SIEG
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de gestão de certificados e procurações no SIEG — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Ativar e desativar certificados/procurações de milhares de empresas no SIEG era manual.
